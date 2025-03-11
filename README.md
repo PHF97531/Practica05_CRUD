@@ -4,9 +4,9 @@
 
 ## Información
 
-- **Nombre:** Pedro Hernández Flores
+- **Nombre:** Pedro Hernández Figueroa
 - **Matrícula:** 22270495
-- **Materia:** Base de Datos
+- **Materia:** Administracion de Base de Datos
 - **Práctica:** 05
 
 ## Descripción
@@ -17,5 +17,5 @@ Este proyecto realiza operaciones CRUD (**Crear, Leer, Actualizar y Eliminar**) 
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/PHF97531/Practica05_CRUD.git
+   git clone  https://github.com/PHF97531/Practica05_CRUD.git
    ```
